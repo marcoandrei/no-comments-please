@@ -4,7 +4,7 @@
  * No Comments, Please!
  *
  * @package     No_Comments_Please
- * @version     1.0
+ * @version     1.0.1
  * @author      Marco Andrei Kichalowsky <marco.andrei@marcoandrei.com>
  * 
  * @wordpress-plugin
@@ -13,7 +13,7 @@
  * Description:         Deactivate and hide all Comments interface parts and all Comments features in WordPress.
  * Version:             1.0
  * Author:              Marco Andrei Kichalowsky
- * Author URI:          http://marcoandrei.com/?utm_source=fronteras_culturales&utm_medium=referral&utm_campaign=clients_website&utm_content=no_comments_please
+ * Author URI:          http://marcoandrei.com/
  * License:             GPLv2
  * Text Domain:         no-comments-please
  * Domain Path:         /languages
