@@ -13,7 +13,7 @@ It is recommended to install this plugin in the mu-plugins folder (“must-use p
 - [@marcoandrei](https://www.github.com/marcoandrei)
 
 
-## Instalação
+## Instalation
 
 1. Go to the `tags` folder and download the latest version.
 
