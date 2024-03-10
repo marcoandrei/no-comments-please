@@ -21,6 +21,8 @@ It is recommended to install this plugin in the mu-plugins folder (“must-use p
 
 3. Go to the Plugins page and activate the plugin.
 
+Or head to WordPress Plugin Repository and install it from WP dashboard.
+
 ## Tags
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v2-yellow.svg)](https://opensource.org/licenses/)
