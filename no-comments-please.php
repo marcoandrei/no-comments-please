@@ -27,6 +27,9 @@
  *  
  */
 
+
+if (!defined('ABSPATH')) exit; // Exit if accessed directly
+
 add_action('admin_init', function () {
     // Redirect any user trying to access comments page
     global $pagenow;
@@ -68,6 +71,7 @@ add_action('init', function () {
     }
 });
 
+// Remove menu from admin bar
 add_action('wp_before_admin_bar_render', function () {
     global $wp_admin_bar;
     $wp_admin_bar->remove_menu('comments');
